@@ -1,1 +1,1 @@
-(сайт з альортами)[https://merelyigor.github.io/Twich/]
+[сайт з альортами](https://merelyigor.github.io/Twich/)
